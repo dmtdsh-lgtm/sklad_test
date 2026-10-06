@@ -40,4 +40,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.Организация</constants>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
