@@ -42,4 +42,5 @@
   <constants>Constant.Организация</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
 </mdclass:Configuration>
