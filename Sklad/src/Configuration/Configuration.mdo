@@ -43,4 +43,5 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Партнеры</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
 </mdclass:Configuration>
