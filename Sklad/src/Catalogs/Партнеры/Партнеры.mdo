@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="75a525c6-badb-44e4-a39b-93c78e188e36">
+  <producedTypes>
+    <objectType typeId="0f8b73f8-1f43-4dd0-a63f-cbcad3d242e9" valueTypeId="74882699-2420-419d-be85-724a3bca81eb"/>
+    <refType typeId="f90c17d5-29a3-4376-b5d9-67656f8fb8a2" valueTypeId="f2068173-04d9-417f-ae3b-f63b53a2fc65"/>
+    <selectionType typeId="ce6a4cb7-cc7b-448e-be3b-3f9cb025fd11" valueTypeId="38945b90-f3c8-4135-9b99-9de9b23ee417"/>
+    <listType typeId="7e166f92-6b9e-4ac1-99cb-4aa367c5d309" valueTypeId="94dd8cac-ca3f-41ca-bec3-44c5c71e50c2"/>
+    <managerType typeId="931d8234-4686-4d96-8c52-23a5af4f8137" valueTypeId="6b37e50d-3626-4ef6-ad9d-fc8913229f6b"/>
+  </producedTypes>
+  <name>Партнеры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Партнеры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Партнеры.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Партнеры.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
