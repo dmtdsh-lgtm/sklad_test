@@ -45,4 +45,5 @@
   <catalogs>Catalog.Партнеры</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
 </mdclass:Configuration>
